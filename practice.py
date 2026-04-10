@@ -42,6 +42,7 @@ print(sum)
 
 
 # Assignment: Find out 20 python built-in functions and their uses
+#"PythonIsFun"
 a = 5
 b = 15
 sum = a + b
